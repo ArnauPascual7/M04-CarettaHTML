@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Font";
+    src: url(IndieFlower-Regular.ttf);
+}
+.font {
+    font-family: "Font";
+}
+.size25 {
+    font-size: 25px;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
